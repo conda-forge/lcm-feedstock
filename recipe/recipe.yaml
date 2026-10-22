@@ -22,7 +22,7 @@ source:
     - 0003-python-standalone-build.patch
 
 build:
-  number: 0
+  number: 1
 
 outputs:
   - staging:
